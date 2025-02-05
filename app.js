@@ -22,7 +22,3 @@ function showFriends(){
         listContainer.innerHTML += `<li>${amigos[i]}</li>`
     }
 }
-
-function sortearAmigo(){
- //comentario para probar      
-}
