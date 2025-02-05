@@ -23,4 +23,6 @@ function showFriends(){
     }
 }
 
-function
+function sortearAmigo(){
+    
+}
